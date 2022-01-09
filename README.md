@@ -5,7 +5,7 @@
 ### Nível:
 Iniciante
 
-Linguagens:
+### Linguagens:
 HTML (linguagem de marcação)
 <br> CSS (linguagem de estilização)<br>
 
